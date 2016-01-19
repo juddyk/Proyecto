@@ -25,7 +25,7 @@ public class Mostrar extends AppCompatActivity {
         TextView lenguaje = (TextView) findViewById(R.id.mostrar);
         nombre=kid.getName();
         padre=kid.getPadre();
-        lenguaje.setText(R.string.tip);
+        lenguaje.setText(padre);
         lenguaje.setTypeface(myCustomFont);
         btn.setTypeface(myCustomFont);
         btn.setOnClickListener(new View.OnClickListener() {

@@ -131,7 +131,7 @@ public class afterSplash extends AppCompatActivity implements Animation.Animatio
 
     @Override
     public void onAnimationEnd(Animation animation) {
-        
+
     }
 
     @Override

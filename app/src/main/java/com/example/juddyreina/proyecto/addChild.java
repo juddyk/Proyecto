@@ -15,6 +15,8 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.facebook.AccessToken;
+import com.facebook.Profile;
 import com.firebase.client.Firebase;
 
 import java.util.ArrayList;
@@ -63,7 +65,22 @@ public class addChild extends AppCompatActivity {
         if(kidDatabase.getContactsCount()!=0)
             MyKids.addAll(kidDatabase.getAllChilds(nameP));
         populateList();
+
+        AccessToken accessToken = AccessToken.getCurrentAccessToken();
+        if( accessToken != null ){
+            Profile p= Profile.getCurrentProfile();
+            if(p!=null){
+                nameP=p.getName();
+            }
+            else{
+                nameP=" ";
+            }
+
+        }
+
+
     }
+
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         if (requestCode == 1) {
             if(resultCode == Activity.RESULT_OK){

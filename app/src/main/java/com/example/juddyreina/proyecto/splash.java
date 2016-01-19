@@ -23,7 +23,7 @@ public class splash extends AppCompatActivity {
     private SharedPreferences.Editor preferenceEditor;
     private static final int PREFERENCE_MODE_PRIVATE=0;
     private SharedPreferences preferenceSettings;
-    boolean skip=false;
+    boolean flag=false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -64,13 +64,15 @@ public class splash extends AppCompatActivity {
                 star2Set.end();
                 star3Set.end();
                 star4Set.end();
-                if(preferenceSettings.getBoolean("skip",skip)){
-                    Intent i = new Intent(splash.this, MainActivity.class);
+                if(preferenceSettings.getBoolean("flag",flag)){
+                    Intent i = new Intent(splash.this, addChild.class);
                     startActivity(i);
+
                 }else{
-                    startActivity(new Intent(splash.this, afterSplash.class));
-                    finish();
+                    Intent i = new Intent(splash.this, afterSplash.class);
+                    startActivity(i);
                 }
+
             }
         };
         Timer timer=new Timer();
