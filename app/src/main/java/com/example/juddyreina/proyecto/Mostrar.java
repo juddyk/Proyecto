@@ -31,7 +31,7 @@ public class Mostrar extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(Mostrar.this, premio.class);
+                Intent i = new Intent(Mostrar.this, mapa.class);
                 startActivity(i);
             }
         });

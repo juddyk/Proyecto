@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -7,7 +8,29 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.juddyreina.proyecto.contenido">
+    tools:context="com.example.juddyreina.proyecto.contenido"
+    android:orientation="vertical"
+    >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:id="@+id/palabra"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="@color/red"
+                android:text="example"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:textSize="130dp"
+                />
+        </LinearLayout>
 
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-75dp"
+            android:id="@+id/bFAB"
+            />
 
 </LinearLayout>

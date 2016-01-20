@@ -184,137 +184,205 @@
         <item>peanuts</item>
         <item>pepper</item>
     </string-array>
-    <!-- Letra negra y en minusculas-->
+    <!-- Letra negra y en minusculas HISTORIA-->
     <string-array name="c18">
         <item>little</item>
         <item>bo-peep</item>
         <item>has</item>
         <item>lost</item>
         <item>her</item>
+    </string-array>
+    <string-array name="c19">
         <item>sheep</item>
         <item>and</item>
         <item>can´t</item>
-        <item></item>
-        <item></item>
-    </string-array>
-    <string-array name="c19">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>tell</item>
+        <item>where</item>
     </string-array>
     <string-array name="c20">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>to</item>
+        <item>find</item>
+        <item>them</item>
+        <item>doesn´t</item>
+        <item>know</item>
     </string-array>
+
     <string-array name="c21">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>leave</item>
+        <item>alone</item>
+        <item>they´ll</item>
+        <item>come</item>
+        <item>home</item>
     </string-array>
     <string-array name="c22">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>wagging</item>
+        <item>their</item>
+        <item>tails</item>
+        <item>behind</item>
+        <item>bring</item>
     </string-array>
     <string-array name="c23">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>fell</item>
+        <item>fast</item>
+        <item>asleep</item>
+        <item>dreamt</item>
+        <item>she</item>
     </string-array>
     <string-array name="c24">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>heard</item>
+        <item>bleating</item>
+        <item>but</item>
+        <item>when</item>
+        <item>awoke</item>
     </string-array>
     <string-array name="c25">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>found</item>
+        <item>it</item>
+        <item>a</item>
+        <item>joke</item>
+        <item>for</item>
     </string-array>
     <string-array name="c26">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>they</item>
+        <item>were</item>
+        <item>still</item>
+        <item>fleeting</item>
+        <item>then</item>
     </string-array>
     <string-array name="c27">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>up</item>
+        <item>took</item>
+        <item>croock</item>
+        <item>determined</item>
+        <item>indeed</item>
     </string-array>
     <string-array name="c28">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>made</item>
+        <item>heart</item>
+        <item>bleed</item>
+        <item>they´d</item>
+        <item>left</item>
     </string-array>
     <string-array name="c29">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>happened</item>
+        <item>one</item>
+        <item>day</item>
+        <item>as</item>
+        <item>did</item>
     </string-array>
     <string-array name="c30">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>stray</item>
+        <item>into</item>
+        <item>meadow</item>
+        <item>hard</item>
+        <item>by</item>
     </string-array>
     <string-array name="c31">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>there</item>
+        <item>espied</item>
+        <item>side</item>
+        <item>all</item>
+        <item>hung</item>
     </string-array>
     <string-array name="c32">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>on</item>
+        <item>tree</item>
+        <item>dry</item>
+        <item>heaved</item>
+        <item>sigh</item>
     </string-array>
     <string-array name="c33">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>wiped</item>
+        <item>eye</item>
+        <item>over</item>
+        <item>the</item>
+        <item>hillocks</item>
     </string-array>
     <string-array name="c34">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>went</item>
+        <item>rambling</item>
+        <item>tried</item>
+        <item>what</item>
+        <item>could</item>
     </string-array>
     <string-array name="c35">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
+        <item>shepherdess</item>
+        <item>should</item>
+        <item>tack</item>
+        <item>each</item>
+        <item>again</item>
     </string-array>
+    <string-array name="c36">
+        <item>its</item>
+        <item>lambkin</item>
+        <item>end</item>
+        <item>rafael</item>
+        <item>pombo</item>
+    </string-array>
+    <!-- Letra negra y en minusculas FRASES-->
+    <!-- HISTORIA-->
+    <string-array name="c37">
+        <item>little Bo-Peep has lost her sheep</item>
+        <item>and can´t tell where to find them</item>
+        <item>and doesn´t know where to find them.</item>
+        <item>leave them alone, And they´ll come home,</item>
+        <item>wagging their tails behind them</item>
+        <item>and bring their tails behind them.</item>
+        <item>little Bo-peep fell fast asleep,</item>
+        <item>and dreamt she heard them bleating;</item>
+        <item>but when she awoke, she found it a joke,</item>
+        <item>for they were still a-fleeting.</item>
+        <item>then up she took her little crook,</item>
+        <item>determined for to find them;</item>
+        <item>she found them indeed,</item>
+        <item>but it made her heart bleed,</item>
+        <item>for they´d left their tails behind them.</item>
+        <item>it happened one day, as Bo-peep did stray</item>
+        <item>into a meadow hard by,</item>
+        <item>there she espied their tails side by side,</item>
+        <item>all hung on a tree to dry.</item>
+        <item>she heaved a sigh and wiped her eye,</item>
+        <item>and over the hillocks went rambling,</item>
+        <item>and tried what she could, as a shepherdess should,</item>
+        <item>to tack each again to its lambkin.</item>
+    </string-array>
+    <!--ABECEDARIO -->
+    <string-array name="c38">
+        <item>A a</item>
+        <item>B b</item>
+        <item>C c</item>
+        <item>D d</item>
+        <item>E e</item>
+    </string-array>
+    <string-array name="c39">
+        <item>F f</item>
+        <item>G g</item>
+        <item>H h</item>
+        <item>I i</item>
+        <item>J j</item>
+    </string-array>
+    <string-array name="c40">
+        <item>K k</item>
+        <item>L l</item>
+        <item>M m</item>
+        <item>N n</item>
+        <item>O o</item>
+    </string-array>
+    <string-array name="c41">
+        <item>P p</item>
+        <item>Q q</item>
+        <item>R r</item>
+        <item>S s</item>
+        <item>T t</item>
+    </string-array>
+    <string-array name="c42"> <!--TIENE 6 ELEMENTOS-->
+        <item>U u</item>
+        <item>V v</item>
+        <item>W w</item>
+        <item>X x</item>
+        <item>Y y</item>
+        <item>Z z</item>
+    </string-array>
+
     <string name="title_activity_guia">Guia</string>
 </resources>
